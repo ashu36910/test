@@ -1,0 +1,5 @@
+db.sqlite3
+geckodriver.log
+superlists/__pycache__/ 
+lists/__pycache__/views.cpython-38.pyc
+lists/__pycache__/urls.cpython-38.pyc
